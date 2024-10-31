@@ -1,2 +1,34 @@
-# NLP-Study
-Personal repository for learning Natural Language Processing with Python
+# Korean NLP Study
+
+자연어처리(NLP) 학습을 위한 개인 저장소입니다.
+
+## 학습 목표
+
+- Python을 이용한 한국어 자연어처리 기초 학습
+- KoNLPy 라이브러리 활용 방법 익히기
+- 텍스트 전처리 및 분석 방법 학습
+- 간단한 NLP 프로젝트 수행
+
+## 학습 내용
+
+### 1. 기초 학습
+- [ ] Python 기본 문법 복습
+- [ ] KoNLPy 설치 및 환경설정
+- [ ] 형태소 분석기 사용법
+
+### 2. 텍스트 처리
+- [ ] 한글 텍스트 전처리
+- [ ] 토큰화(Tokenization)
+- [ ] 품사 태깅(POS Tagging)
+
+### 3. 프로젝트
+- [ ] 간단한 텍스트 분석
+- [ ] 감성 분석 구현
+- [ ] 문서 분류 시스템
+
+## 참고 자료
+- [KoNLPy 공식 문서](https://konlpy.org/ko/latest/)
+- [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
+
+## 진행 상황
+- 2024-10-31: 저장소 생성 및 학습 계획 수립
